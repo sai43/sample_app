@@ -1,0 +1,5 @@
+this is simple ruby on rails tutorial application using ruby on rails
+
+this sai and I am comming from india.
+
+I am trying to learn ruby on rails from net suring.
